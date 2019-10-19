@@ -1,0 +1,23 @@
+{
+  "name": "cymbals-edge",
+  "version": "0.1.0",
+  "description": "A simple RESTul edge for CymbalsJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Cymbal-Systems/cymbals-edge.git"
+  },
+  "author": "Paul Barry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cymbal-Systems/cymbals-edge/issues"
+  },
+  "homepage": "https://github.com/Cymbal-Systems/cymbals-edge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
