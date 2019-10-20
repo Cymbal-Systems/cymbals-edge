@@ -2,9 +2,9 @@
   "name": "cymbals-edge",
   "version": "0.1.0",
   "description": "A simple RESTul edge for CymbalsJS",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
-    "start": "node ./",
+    "start": "node ./app",
     "test": "mocha './app/**/*.js'",
     "test:coverage": "nyc npm test",
     "test:watch": "npm run test -- -w"
