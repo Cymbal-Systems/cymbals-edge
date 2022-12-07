@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Cymbal-Systems/cymbals-edge#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
